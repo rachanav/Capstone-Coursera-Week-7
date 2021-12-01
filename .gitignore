@@ -15,6 +15,7 @@
 # | R                                                |
 # +--------------------------------------------------+
 
+
 #
 # Note: It is generally recommend including your .Rproj in your Git repo for a
 #       number of reasons. For example, .Rproj settings help enforce some code
