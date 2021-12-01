@@ -1,5 +1,6 @@
 local({
 
+  
   ## Helper function to get the path to the library directory for a
   ## given packrat project.
   getPackratLibDir <- function(projDir = NULL) {
