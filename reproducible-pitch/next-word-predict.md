@@ -1,7 +1,7 @@
 Next Word Predict
 ========================================================
-author: Jeffrey M. Hunter
-date: 28 July, 2019
+author: Rachana V
+date: 28 November, 2021
 autosize: true
 transition: rotate
 class: smaller
